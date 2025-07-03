@@ -13,10 +13,11 @@ Welcome to **Fashion Hub**, a modern and fully-featured front-end e-commerce web
 
 ## 📁 Project Structure
 ```
+/README.md      --> Project documentation (this file)
 /index.html     --> Main HTML structure
 /styles.css     --> All styles and animations
 /script.js      --> JavaScript logic for product loading and interactions
-/README.md      --> Project documentation (this file)
+
 
 
 
